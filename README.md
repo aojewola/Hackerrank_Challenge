@@ -1,3 +1,3 @@
 # Hackerrank_Challenge
 
-This repo contains some of the codes that I personally wrote to solve problem questions on Hackerrank
+This repo contains some of the python codes that I personally wrote to solve various data structures and algorithmic problem questions on Hackerrank.
